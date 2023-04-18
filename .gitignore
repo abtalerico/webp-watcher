@@ -1,0 +1,5 @@
+venv
+gzdl/__pycache__/*
+dist/*
+.idea
+gzdl.ini
